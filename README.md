@@ -1,3 +1,5 @@
 ## nauka gita
 
-studia 
+studia
+
+czesc
